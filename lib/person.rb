@@ -8,10 +8,10 @@ class Person
   end
   
   def job=(job) #job equals setter
-    
+    @job=job
   end
   
-  def 
-    
+  def job #job getter
+    @job
   end
 end
