@@ -8,7 +8,7 @@ class Dog
   end
 
   def breed #getter method
-    
+    @breed
   end
 
 end
