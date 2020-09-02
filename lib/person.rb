@@ -7,7 +7,7 @@ class Person
     @name
   end
   
-  def 
+  def job=(job) #job equals setter
     
   end
   
