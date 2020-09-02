@@ -3,7 +3,7 @@ class Dog
     
   end
 
-  def #setter method
+  def breed=(breed) #setter method
     
   end
 
