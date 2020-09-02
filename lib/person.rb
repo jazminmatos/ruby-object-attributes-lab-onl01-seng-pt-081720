@@ -3,8 +3,8 @@ class Person
     @name = name
   end
   
-  def 
-    
+  def name #name getter
+    @name
   end
   
   def 
