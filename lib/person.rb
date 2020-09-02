@@ -1,5 +1,5 @@
 class Person
-  def name=(name) 
+  def name=(name) #name equals setter
     @name = name
   end
   
