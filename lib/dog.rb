@@ -11,12 +11,12 @@ class Dog
     @name
   end
   
-  def
-      
+  def breed=(breed)
+    @breed = breed  
   end
 
-  def
-    
+  def breed
+    @breed
   end
 
 end
