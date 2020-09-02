@@ -7,7 +7,7 @@ class Dog
     @breed = dog_breed
   end
 
-  def #getter method
+  def breed#getter method
     
   end
 
