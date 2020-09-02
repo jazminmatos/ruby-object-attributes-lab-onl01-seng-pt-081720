@@ -1,14 +1,14 @@
 class Dog 
-  def
-  
+  def #initialize
+    
   end
 
-  def
-  
+  def #setter method
+    
   end
 
-  def
-  
+  def #getter method
+    
   end
 
 end
