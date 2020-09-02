@@ -3,8 +3,8 @@ class Dog
     @breed = dog_breed
   end
 
-  def breed=(breed) #setter method
-    
+  def breed=(dog_breedbreed) #setter method
+    @breed = dog_breed
   end
 
   def #getter method
