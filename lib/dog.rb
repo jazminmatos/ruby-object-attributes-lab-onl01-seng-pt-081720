@@ -10,6 +10,14 @@ class Dog
   def name #getter method
     @name
   end
+  
+  def
+      
+  end
+
+  def
+    
+  end
 
 end
 
