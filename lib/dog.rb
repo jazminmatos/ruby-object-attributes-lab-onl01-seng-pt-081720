@@ -3,12 +3,12 @@ class Dog
     @name = name
   end
 
-  def breed=(dog_breed) #setter method
-    @breed = dog_breed
+  def name=(name) #setter method
+    @name = name
   end
 
-  def breed #getter method
-    @breed
+  def name #getter method
+    @name
   end
 
 end
